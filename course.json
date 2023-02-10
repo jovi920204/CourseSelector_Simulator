@@ -1,0 +1,46 @@
+{
+    "courseData": [
+        {
+            "courseNo": "CS2001301",
+            "name": "工程數學",
+            "time": [
+                "M6",
+                "M7",
+                "W10"
+            ],
+            "credit": "3"
+        },
+        {
+            "courseNo": "CS2006302",
+            "name": "計算機組織",
+            "time": [
+                "T3",
+                "T4",
+                "R4"
+            ],
+            "credit": "3"
+        },
+        {
+            "courseNo": "CS2008302",
+            "name": "機率與統計",
+            "time": [
+                "W7",
+                "F3",
+                "F4"
+            ],
+            "credit": "3"
+        }
+    ],
+    "courseChooseList": [
+        {
+            "courseNo": "CS2006302",
+            "name": "計算機組織",
+            "time": [
+                "T3",
+                "T4",
+                "R4"
+            ],
+            "credit": "3"
+        }
+    ]
+}
