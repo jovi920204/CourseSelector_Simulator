@@ -87,7 +87,9 @@ app.listen(3000, function(){
     console.log("Server is running on port 3000");
 });
 
-// branch develop
+// branch develop 
+// using git command
+// $git push origin main:develop
 
 function modifyJSON() {
     var str = JSON.stringify(course);
